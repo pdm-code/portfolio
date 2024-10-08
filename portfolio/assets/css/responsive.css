@@ -1,0 +1,304 @@
+@charset "utf-8";
+/* 화면 0 ~ 1920px */
+@media screen and (max-width:1920px) {
+  .visual2 .container .aboutWrap .content div ul.skillWrap br {
+    display: none;
+  }
+}
+
+/* 화면 0 ~ 1220px */
+@media screen and (max-width:1220px) {
+  .container {
+    padding: 0 20px;
+  }
+
+  .visual2 .container .aboutWrap .content p span {
+    font-size: 14px;
+  }
+
+  .visual3 .projectSwiper {
+    max-width: 960px;
+  }
+
+  .visual3 .projectSwiper .swiper-wrapper .swiper-slide {
+    width: 300px;
+  }
+}
+
+
+
+/* 화면 0 ~ 1164px */
+@media screen and (max-width:1220px) {
+  .visual2 .container .aboutWrap .content p span {
+    display: block;
+  }
+
+  .visual2 .container .aboutWrap .content p span br {
+    display: none;
+  }
+}
+
+/* 화면 0 ~ 1120px */
+@media screen and (max-width:1120px) {
+  .visual2 .container .aboutWrap .content div .licenseWrap {
+    margin-right: 50px;
+  }
+
+  .visual2 .container .aboutWrap .content div ul.skillWrap {
+    margin-top: 30px;
+  }
+
+}
+
+/* 화면 0 ~ 1070px */
+@media screen and (max-width:1070px) {
+  .visual2 .container .aboutWrap {
+    padding: 60px;
+  }
+}
+
+/* 화면 0 ~ 1062px */
+/* @media screen and (max-width:1070px) {
+  .visual2 .container .aboutWrap .content div ul.skillWrap .c1,
+  .visual2 .container .aboutWrap .content div ul.skillWrap .c2,
+  .visual2 .container .aboutWrap .content div ul.skillWrap .c3 {
+    margin-bottom: 10px;
+  } 
+
+  .visual2 .container .aboutWrap .content div ul.skillWrap br {
+    display: block;
+  }
+} */
+
+/* 화면 0 ~ 1024px */
+@media screen and (max-width:1024px) {
+  .visual1 .container .tit1 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+
+  .visual1 .container p .tit2.lora {
+    font-size: 110px;
+    line-height: 110px;
+    margin-bottom: 14px;
+  }
+
+  .visual1 .container p .tit3 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+}
+
+/* 화면 0 ~ 990px */
+@media screen and (max-width:990px) {
+  .visual2 .container .aboutWrap .content div ul.skillWrap {
+    margin-top: 0;
+  }
+
+  .visual2 .container .aboutWrap .content div ul .tit {
+    margin-top: 5px;
+  }
+}
+
+/* 화면 0 ~ 982px */
+@media screen and (max-width:982px) {
+  .header .container.lora .menuWrap {
+    display: none;
+  }
+
+  .header .container.lora .menuBar {
+    display: block;
+  }
+
+  .visual2 .container .aboutWrap .content div ul.skillWrap br {
+    display: block;
+  }
+
+  .visual2 .container .aboutWrap .content div ul.skillWrap .txt.c1,
+  .visual2 .container .aboutWrap .content div ul.skillWrap .txt.c2,
+  .visual2 .container .aboutWrap .content div ul.skillWrap .txt.c3 {
+    margin-bottom: 10px;
+  } 
+}
+
+/* 화면 0 ~ 957px */
+@media screen and (max-width:957px) {
+  .visual2 .container .aboutWrap {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .visual2 .container .aboutWrap img {
+    width: 360px;
+  }
+
+  .visual2 .container .aboutWrap .content > span {
+    display: block;
+    text-align: center;
+  }
+
+  .visual2 .container .aboutWrap .content p {
+    text-align: center;
+  }
+
+  .visual2 .container .aboutWrap .content div ul {
+    margin-right: 30px;
+  }
+
+  .visual2 .container .aboutWrap .content div .licenseWrap {
+    margin-right: 30px;
+  }
+
+  .visual2 .container .aboutWrap .content div ul.skillWrap {
+    margin-right: 0;
+  }
+}
+
+/* 화면 0 ~ 1120px */
+@media screen and (max-width:1120px) {
+  .visual3 .projectSwiper {
+    max-width: 710px;
+  }
+
+  .visual3 .projectSwiper .swiper-wrapper .swiper-slide {
+    width: 340px;
+  }
+}
+
+/* 화면 0 ~ 870px */
+@media screen and (max-width:870px) {
+  .visual3 .projectSwiper {
+    max-width: 340px;
+  }
+}
+
+/* 화면 0 ~ 836px */
+@media screen and (max-width:836px) {
+  .visual2 .container .aboutWrap {
+    padding: 60px 0;
+  }
+
+  .visual2 .container .aboutWrap .content div ul .txt {
+    font-size: 14px;
+    margin-bottom: 6px;
+  }
+}
+
+/* 화면 0 ~ 817px */
+@media screen and (max-width:817px) {
+  .visual1 .container .tit1 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 6px;
+  }
+  .visual1 .container p .tit2.lora {
+    font-size: 80px;
+    line-height: 80px; 
+    margin-bottom: 12px;
+  }
+
+  .visual1 .container p .tit3 {
+    font-size: 22px;
+    line-height: 22px;
+  }
+}
+
+/* 화면 0 ~ 653px */
+@media screen and (max-width:653px) {
+  .visual2 .container .aboutWrap {
+    padding: 60px 20px;
+  }
+}
+
+/* 화면 0 ~ 599px */
+@media screen and (max-width:599px) {
+  .visual2 .container .aboutWrap {
+    padding: 60px 10px;
+  }
+
+  .visual2 .container .aboutWrap img {
+    width: 300px;
+  }
+
+  .visual2 .container .aboutWrap .content > span {
+    font-size: 26px;
+    line-height: 36px;
+  }
+
+  .visual2 .container .aboutWrap .content p span {
+    font-size: 12px;
+  }
+
+  .visual2 .container .aboutWrap .content div ul .tit {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .visual2 .container .aboutWrap .content div ul .txt {
+    font-size: 12px;
+    line-height: 18px
+  }
+}
+
+/* 화면 0 ~ 610px */
+@media screen and (max-width:610px) {
+  .visual1 .container .tit1 {
+    font-size: 14px;
+    line-height: 14px;
+  }
+
+  .visual1 .container p .tit2.lora {
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .visual1 .container p .tit3 {
+    font-size: 18px;
+    line-height: 18px;
+  }
+}
+
+/* 화면 0 ~ 567px */
+@media screen and (max-width:567px) {
+  .visual4 .container p {
+    font-size: 16px;
+  }
+
+  .visual4 .reserveWrap {
+    font-size: 12px;
+  }
+
+  .visual4 .container .gmail {
+    font-size: 26px;
+  }
+}
+
+/* 화면 0 ~ 534px */
+@media screen and (max-width:534px) {
+  .visual2 .container .aboutWrap .content div .licenseWrap {
+    margin-right: 12px;
+  }
+
+  .visual2 .container .aboutWrap .content div ul {
+    margin-right: 12px;
+  }
+}
+
+/* 화면 0 ~ 430px */
+@media screen and (max-width:430px) {
+  .visual1 .container .tit1 {
+    font-size: 12px;
+    line-height: 12px;
+  }
+
+  .visual1 .container p .tit2.lora {
+    font-size: 46px;
+    line-height: 46px;
+  }
+
+  .visual1 .container p .tit3 {
+    font-size: 16px;
+    line-height: 16px;
+  }
+}
